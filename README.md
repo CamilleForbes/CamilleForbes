@@ -14,7 +14,7 @@
 </div>
 
 <hr>
-🙉 About Me 🙉:
+🙉About Me🙉
 <div align="center">
 
 
@@ -28,7 +28,7 @@
  
 </div>
 <hr>
-🛠️ Languages and Tools 🛠️
+🛠️Languages🛠️
 <div align="center">
 </div>
 <div align="center">
@@ -39,10 +39,10 @@
 </div>
 
 <div align="center">
-
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilleForbes&langs_count=5)](https://github.com/CamilleForbes/github-readme-stats)
-</div>
 
+</div>
 <hr>
 🔥My Stats🔥
 <div align="center">
