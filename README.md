@@ -18,11 +18,11 @@
 <div align="center">
 
 
--😄 𝒫𝓇𝑜𝓃𝑜𝓊𝓃𝓈: 𝒮𝒽𝑒/𝐻𝑒𝓇  
--🔭𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓌𝑜𝓇𝓀𝒾𝓃𝑔 𝑜𝓃: 𝐻𝑜𝓌 𝓉𝑜 𝒸𝓇𝑒𝒶𝓉𝑒 𝒶𝓃 𝒶𝓂𝒶𝓏𝒾𝓃𝑔 𝒢𝒾𝓉𝐻𝓊𝒷 𝓅𝓇𝑜𝒻𝒾𝓁𝑒   
--💬 𝒜𝓈𝓀 𝓂𝑒 𝒶𝒷𝑜𝓊𝓉: 𝒥𝒶𝓋𝒶, 𝒫𝓎𝓉𝒽𝑜𝓃, 𝑜𝓇 𝑅𝑒𝒶𝒸𝓉 𝒩𝒶𝓉𝒾𝓋𝑒   
--📫 𝐻𝑜𝓌 𝓉𝑜 𝓇𝑒𝒶𝒸𝒽 𝓂𝑒: ...   
--⚡ 𝐹𝓊𝓃 𝒻𝒶𝒸𝓉: 𝐼 𝒽𝒶𝓋𝑒 𝒷𝑒𝑒𝓃 𝒸𝑜𝒹𝒾𝓃𝑔 𝒻𝑜𝓇 𝓉𝒽𝑒 𝓅𝒶𝓈𝓉 𝟦 𝓎𝑒𝒶𝓇𝓈  
+-😄 𝒫𝓇𝑜𝓃𝑜𝓊𝓃𝓈: She/Her   
+-🔭𝐼’𝓂 𝒸𝓊𝓇𝓇𝑒𝓃𝓉𝓁𝓎 𝓌𝑜𝓇𝓀𝒾𝓃𝑔 𝑜𝓃: A School Year Memory Tracker   
+-💬 𝒜𝓈𝓀 𝓂𝑒 𝒶𝒷𝑜𝓊𝓉: Java, Python, Javascript, or React Native   
+-📫 𝐻𝑜𝓌 𝓉𝑜 𝓇𝑒𝒶𝒸𝒽 𝓂𝑒: cfalexis10@gmail.com   
+-⚡ 𝐹𝓊𝓃 𝒻𝒶𝒸𝓉: I started coding at the age of 10  
  
  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=chickennuggetwaddle12&count=1)
  
@@ -32,9 +32,10 @@
 <div align="center">
 </div>
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
 </div>
 
 <div align="center">
