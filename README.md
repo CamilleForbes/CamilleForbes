@@ -2,7 +2,7 @@
 
 <div align="center">
 𝑀𝓎 𝓃𝒶𝓂𝑒 𝒾𝓈 𝒞𝒶𝓂𝒾𝓁𝓁𝑒 𝐹𝑜𝓇𝒷𝑒𝓈 👋
-
+<hr>
 𝒱𝒾𝓈𝒾𝓉𝑜𝓇 𝒞𝑜𝓊𝓃𝓉
 
 ![Visitor Count](https://profile-counter.glitch.me/{CamilleForbes}/count.svg)
